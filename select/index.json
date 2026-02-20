@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Hey!Calling",
+  "base_artist": "チョーキューメイ",
+  "createdAt": "2026-02-20T00:37:10.759109Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey!Calling",
+      "artist": "チョーキューメイ",
+      "has_synced": false,
+      "path": "select/pl_01_Hey!Calling_チョーキューメイ.txt"
+    }
+  ]
+}
